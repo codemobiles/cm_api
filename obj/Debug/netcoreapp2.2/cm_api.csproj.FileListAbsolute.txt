@@ -1,0 +1,14 @@
+/Users/iblurblur/Desktop/cm_api/bin/Debug/netcoreapp2.2/cm_api.deps.json
+/Users/iblurblur/Desktop/cm_api/bin/Debug/netcoreapp2.2/cm_api.runtimeconfig.json
+/Users/iblurblur/Desktop/cm_api/bin/Debug/netcoreapp2.2/cm_api.runtimeconfig.dev.json
+/Users/iblurblur/Desktop/cm_api/bin/Debug/netcoreapp2.2/cm_api.dll
+/Users/iblurblur/Desktop/cm_api/bin/Debug/netcoreapp2.2/cm_api.pdb
+/Users/iblurblur/Desktop/cm_api/obj/Debug/netcoreapp2.2/cm_api.csprojAssemblyReference.cache
+/Users/iblurblur/Desktop/cm_api/obj/Debug/netcoreapp2.2/cm_api.csproj.CoreCompileInputs.cache
+/Users/iblurblur/Desktop/cm_api/obj/Debug/netcoreapp2.2/cm_api.RazorAssemblyInfo.cache
+/Users/iblurblur/Desktop/cm_api/obj/Debug/netcoreapp2.2/cm_api.RazorAssemblyInfo.cs
+/Users/iblurblur/Desktop/cm_api/obj/Debug/netcoreapp2.2/cm_api.AssemblyInfoInputs.cache
+/Users/iblurblur/Desktop/cm_api/obj/Debug/netcoreapp2.2/cm_api.AssemblyInfo.cs
+/Users/iblurblur/Desktop/cm_api/obj/Debug/netcoreapp2.2/cm_api.RazorTargetAssemblyInfo.cache
+/Users/iblurblur/Desktop/cm_api/obj/Debug/netcoreapp2.2/cm_api.dll
+/Users/iblurblur/Desktop/cm_api/obj/Debug/netcoreapp2.2/cm_api.pdb
